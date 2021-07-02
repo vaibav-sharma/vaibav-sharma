@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibav-sharma
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Terraform, Docker, K8s
-- 💞️ I’m looking to collaborate on DevOps tools like 
+- 👀 I’m interested in React/Front End Development
+- 🌱 I’m currently learning React, Terraform, Docker, K8s
+- 💞️ I’m looking to collaborate on Front End tools like 
 - 📫 vaibav-sharma
 
 <!---
